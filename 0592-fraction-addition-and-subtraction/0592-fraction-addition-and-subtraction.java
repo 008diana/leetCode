@@ -17,7 +17,7 @@ class Solution {
         int lcm = 1; // Start with LCM of 1, since LCM of any number with 1 is the number itself.
 
         // Regular expression to match fractions
-        Pattern pattern = Pattern.compile("-?\\d+/(\\d+)");
+        Pattern pattern = Pattern.compile("-?[0-9]+/([0-9]+)");
         Matcher matcher = pattern.matcher(fractions);
 
         // Iterate over all the fractions found in the string
@@ -49,7 +49,8 @@ class Solution {
         int sum = 0; // Start with LCM of 1, since LCM of any number with 1 is the number itself.
 
         // Regular expression to match fractions
-        Pattern pattern = Pattern.compile("(-?\\d+)/(\\d+)");
+        //[0-9] is same as [0-9]
+        Pattern pattern = Pattern.compile("(-?[0-9]+)/([0-9]+)");
         Matcher matcher = pattern.matcher(fractions);
 
         // Iterate over all the fractions found in the string
