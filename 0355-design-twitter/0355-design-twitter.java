@@ -1,4 +1,5 @@
-//NMS. need to implement this again!
+import java.util.*;
+
 class Twitter {
 
     private int timeStamp; // Global timestamp to track the order of tweets
@@ -21,30 +22,37 @@ class Twitter {
 
     public List<Integer> getNewsFeed(int userId) {
         List<Integer> newsFeed = new ArrayList<>();
-        PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a, b) -> b[0] - a[0]); // Max-heap based on timestamp
+        List<int[]> allTweets = new ArrayList<>();
 
-        // Add the user's own tweets.
+        // Add the user's own tweets to allTweets
         if (tweets.containsKey(userId)) {
-            for (int[] tweet : tweets.get(userId)) {
-                maxHeap.add(tweet);
+            List<int[]> userTweets = tweets.get(userId);
+            for (int i = 0; i < userTweets.size(); i++) {
+                allTweets.add(userTweets.get(i));
             }
         }
 
-        // Add tweets from users that this user follows.
+        // Add tweets from users that this user follows
         Set<Integer> following = followers.getOrDefault(userId, new HashSet<>());
-        for (int followeeId : following) {
+        for (Integer followeeId : following) {
             if (tweets.containsKey(followeeId)) {
-                for (int[] tweet : tweets.get(followeeId)) {
-                    maxHeap.add(tweet);
+                List<int[]> followeeTweets = tweets.get(followeeId);
+                for (int i = 0; i < followeeTweets.size(); i++) {
+                    allTweets.add(followeeTweets.get(i));
                 }
             }
         }
 
-        // Retrieve the top 10 recent tweets.
-        int count = 0;
-        while (!maxHeap.isEmpty() && count < 10) {
-            newsFeed.add(maxHeap.poll()[1]); // Get the tweetId
-            count++;
+        // Sort all tweets based on their timestamps (latest first)
+        Collections.sort(allTweets, new Comparator<int[]>() {
+            public int compare(int[] a, int[] b) {
+                return b[0] - a[0]; // Sort in descending order
+            }
+        });
+
+        // Get the top 10 recent tweets
+        for (int i = 0; i < Math.min(10, allTweets.size()); i++) {
+            newsFeed.add(allTweets.get(i)[1]); // Get the tweetId
         }
 
         return newsFeed;
@@ -52,7 +60,7 @@ class Twitter {
 
     public void follow(int followerId, int followeeId) {
         followers.putIfAbsent(followerId, new HashSet<>());
-        followers.get(followerId).add(followeeId); // Use add instead of put for adding to a set
+        followers.get(followerId).add(followeeId); // Use add for adding to a set
     }
 
     public void unfollow(int followerId, int followeeId) {
