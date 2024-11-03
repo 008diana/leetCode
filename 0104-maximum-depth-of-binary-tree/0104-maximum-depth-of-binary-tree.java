@@ -1,4 +1,4 @@
-//NMS, still can't get a hang of recurssionnnn
+//2nd time and dit it by myself. Am proud thoda thoda
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -14,16 +14,11 @@
  *     }
  * }
  */
-
 class Solution {
     public int maxDepth(TreeNode root) {
-        if (root == null) {
+        if(root == null){
             return 0;
         }
-
-        int leftSubHeight = maxDepth(root.left);
-        int rightSubHeight = maxDepth(root.right);
-
-        return Math.max(leftSubHeight, rightSubHeight) + 1;
+        return Math.max(maxDepth(root.left) + 1, maxDepth(root.right) + 1);
     }
 }
