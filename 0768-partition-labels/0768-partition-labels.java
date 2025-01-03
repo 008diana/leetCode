@@ -19,17 +19,17 @@ class Solution {
             }
         }
         
-        // Print first map (character -> [start, end] indices)
-        System.out.println("Map 1 (Character -> [start, end]):");
-        for(Map.Entry<Character, int[]> entry : map.entrySet()) {
-            System.out.println(entry.getKey() + " -> [" + entry.getValue()[0] + ", " + entry.getValue()[1] + "]");
-        }
+        // // Print first map (character -> [start, end] indices)
+        // System.out.println("Map 1 (Character -> [start, end]):");
+        // for(Map.Entry<Character, int[]> entry : map.entrySet()) {
+        //     System.out.println(entry.getKey() + " -> [" + entry.getValue()[0] + ", " + entry.getValue()[1] + "]");
+        // }
         
-        // Print second map (start index -> end index)
-        System.out.println("\nMap 2 (Start index -> End index):");
-        for(Map.Entry<Integer, Integer> entry : map2.entrySet()) {
-            System.out.println(entry.getKey() + " -> " + entry.getValue());
-        }
+        // // Print second map (start index -> end index)
+        // System.out.println("\nMap 2 (Start index -> End index):");
+        // for(Map.Entry<Integer, Integer> entry : map2.entrySet()) {
+        //     System.out.println(entry.getKey() + " -> " + entry.getValue());
+        // }
 
         int upper = map2.get(0);
         int lower = 0; 
