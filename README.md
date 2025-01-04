@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
+| [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/008diana/leetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/008diana/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Queue
@@ -79,4 +80,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/008diana/leetCode/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
