@@ -69,5 +69,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/008diana/leetCode/tree/master/0231-power-of-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/008diana/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/008diana/leetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/008diana/leetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
