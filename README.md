@@ -7,6 +7,7 @@
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/008diana/leetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/008diana/leetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/008diana/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Queue
 |  |
@@ -46,6 +47,7 @@
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/008diana/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/008diana/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/008diana/leetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/008diana/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
@@ -53,6 +55,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/008diana/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/008diana/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/008diana/leetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/008diana/leetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/008diana/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
