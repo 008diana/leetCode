@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/008diana/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -76,6 +77,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/008diana/leetCode/tree/master/0231-power-of-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/008diana/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Math
@@ -93,5 +95,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
