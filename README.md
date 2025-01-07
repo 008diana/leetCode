@@ -7,6 +7,7 @@
 | [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
+| [1524-string-matching-in-an-array](https://github.com/008diana/leetCode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/008diana/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/008diana/leetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/008diana/leetCode/tree/master/2465-shifting-letters-ii) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
+| [1524-string-matching-in-an-array](https://github.com/008diana/leetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/008diana/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/008diana/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/008diana/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -97,4 +99,8 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/008diana/leetCode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
