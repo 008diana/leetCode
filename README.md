@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
+| [0744-network-delay-time](https://github.com/008diana/leetCode/tree/master/0744-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -103,4 +104,20 @@
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/008diana/leetCode/tree/master/1524-string-matching-in-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/008diana/leetCode/tree/master/0744-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/008diana/leetCode/tree/master/0744-network-delay-time) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/008diana/leetCode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/008diana/leetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
