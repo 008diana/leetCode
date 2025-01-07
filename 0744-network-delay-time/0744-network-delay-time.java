@@ -1,43 +1,52 @@
+import java.util.*;
+
 class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
-        // Create adjacency list
-        Map<Integer, List<int[]>> adjacency = new HashMap<>();
-        for (int[] time : times) {
-            int src = time[0];
-            int dst = time[1];
-            int t = time[2];
-            adjacency.computeIfAbsent(src, key -> new ArrayList<>()).add(new int[] { dst, t });
+        int[][] adj = new int[n + 1][n + 1];
+
+        // Initialize adjacency matrix with a large value (infinity-like) for no direct paths
+        for (int i = 0; i < n + 1; i++) {
+            Arrays.fill(adj[i], Integer.MAX_VALUE);
         }
 
-        // Priority queue for Dijkstra's algorithm (min-heap based on time)
-        PriorityQueue<int[]> pq = new PriorityQueue<>(Comparator.comparingInt(a -> a[1]));
-        pq.add(new int[] { k, 0 });
-        Set<Integer> visited = new HashSet<>();
-        int delays = 0;
+        // Fill adjacency matrix with given edges
+        for (int[] time : times) {
+            int source = time[0];
+            int destination = time[1];
+            int travelTime = time[2];
+            adj[source][destination] = travelTime;
+        }
 
-        while (!pq.isEmpty()) {
-            int[] current = pq.poll();
-            int time = current[1];
-            int node = current[0];
+        // Min-heap to track the next node to process, sorted by cumulative time
+        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b) -> a[1] - b[1]);
+        minHeap.add(new int[] { k, 0 }); // Start with the source node `k`
 
-            // Skip if the node has been visited
-            if (!visited.add(node)) {
+        // Visited set and result initialization
+        HashSet<Integer> visited = new HashSet<>();
+        int res = 0;
+
+        while (!minHeap.isEmpty()) {
+            int[] curr = minHeap.poll();
+            int currNode = curr[0];
+            int currTime = curr[1];
+
+            // Skip if node is already visited
+            if (visited.contains(currNode)) {
                 continue;
             }
 
-            delays = Math.max(delays, time);
-            List<int[]> neighbors = adjacency.getOrDefault(node, new ArrayList<>());
+            visited.add(currNode);
+            res = Math.max(res, currTime);
 
-            for (int[] neighbor : neighbors) {
-                int neighborNode = neighbor[0];
-                int neighborTime = neighbor[1];
-                if (!visited.contains(neighborNode)) {
-                    pq.add(new int[] { neighborNode, time + neighborTime });
+            // Traverse neighbors
+            for (int i = 1; i <= n; i++) { // Start from 1 since node indices are 1-based
+                if (adj[currNode][i] != Integer.MAX_VALUE && !visited.contains(i)) {
+                    minHeap.add(new int[] { i, currTime + adj[currNode][i] });
                 }
             }
         }
 
-        // Check if all nodes have been visited
-        return visited.size() == n ? delays : -1;
+        // If not all nodes are visited, return -1
+        return visited.size() == n ? res : -1;
     }
 }
