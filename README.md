@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/008diana/leetCode/tree/master/0048-rotate-image) |
 | [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/008diana/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/008diana/leetCode/tree/master/1524-string-matching-in-an-array) |
@@ -94,6 +95,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/008diana/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/008diana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/008diana/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -120,6 +122,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/008diana/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
@@ -173,4 +176,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/008diana/leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/008diana/leetCode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
