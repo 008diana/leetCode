@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/008diana/leetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/008diana/leetCode/tree/master/0048-rotate-image) |
 | [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
@@ -40,6 +41,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/008diana/leetCode/tree/master/0042-trapping-rain-water) |
 | [0937-online-stock-span](https://github.com/008diana/leetCode/tree/master/0937-online-stock-span) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/008diana/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Design
@@ -49,6 +51,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/008diana/leetCode/tree/master/0042-trapping-rain-water) |
 | [0937-online-stock-span](https://github.com/008diana/leetCode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -91,6 +94,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/008diana/leetCode/tree/master/0042-trapping-rain-water) |
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
 ## Greedy
 |  |
@@ -122,6 +126,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/008diana/leetCode/tree/master/0042-trapping-rain-water) |
 | [0435-non-overlapping-intervals](https://github.com/008diana/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
 ## Backtracking
