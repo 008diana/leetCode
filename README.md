@@ -13,6 +13,7 @@
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/008diana/leetCode/tree/master/1524-string-matching-in-an-array) |
+| [1876-map-of-highest-peak](https://github.com/008diana/leetCode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/008diana/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/008diana/leetCode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/008diana/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/008diana/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/008diana/leetCode/tree/master/0744-network-delay-time) |
+| [1876-map-of-highest-peak](https://github.com/008diana/leetCode/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/008diana/leetCode/tree/master/0048-rotate-image) |
 | [0407-trapping-rain-water-ii](https://github.com/008diana/leetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1876-map-of-highest-peak](https://github.com/008diana/leetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/008diana/leetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/008diana/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Brainteaser
