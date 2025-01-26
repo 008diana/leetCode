@@ -155,6 +155,7 @@
 | [0744-network-delay-time](https://github.com/008diana/leetCode/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/008diana/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/008diana/leetCode/tree/master/1396-count-servers-that-communicate) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/008diana/leetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/008diana/leetCode/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/008diana/leetCode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/008diana/leetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Shortest Path
 |  |
 | ------- |
@@ -217,4 +219,5 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/008diana/leetCode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/008diana/leetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
