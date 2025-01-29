@@ -128,6 +128,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/008diana/leetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/008diana/leetCode/tree/master/0231-power-of-two) |
+| [0365-water-and-jug-problem](https://github.com/008diana/leetCode/tree/master/0365-water-and-jug-problem) |
 ## Recursion
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/008diana/leetCode/tree/master/0365-water-and-jug-problem) |
 | [0744-network-delay-time](https://github.com/008diana/leetCode/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/008diana/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/008diana/leetCode/tree/master/1396-count-servers-that-communicate) |
@@ -159,6 +161,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/008diana/leetCode/tree/master/0365-water-and-jug-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/008diana/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/008diana/leetCode/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/008diana/leetCode/tree/master/0820-find-eventual-safe-states) |
