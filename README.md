@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/008diana/leetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/008diana/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/008diana/leetCode/tree/master/0435-non-overlapping-intervals) |
+| [0485-max-consecutive-ones](https://github.com/008diana/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/008diana/leetCode/tree/master/0518-coin-change-ii) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
