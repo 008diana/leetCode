@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/008diana/leetCode/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/008diana/leetCode/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/008diana/leetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/008diana/leetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/008diana/leetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/008diana/leetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/008diana/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
