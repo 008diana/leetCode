@@ -11,6 +11,7 @@
 | [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/008diana/leetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/008diana/leetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/008diana/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/008diana/leetCode/tree/master/0435-non-overlapping-intervals) |
@@ -106,6 +107,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/008diana/leetCode/tree/master/1364-tuple-with-same-product) |
@@ -137,6 +139,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/008diana/leetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/008diana/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/008diana/leetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/008diana/leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -148,6 +151,7 @@
 | [0048-rotate-image](https://github.com/008diana/leetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/008diana/leetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/008diana/leetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/008diana/leetCode/tree/master/0365-water-and-jug-problem) |
 ## Recursion
 |  |
@@ -235,6 +239,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/008diana/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/008diana/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Union Find
@@ -247,4 +252,8 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/008diana/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/008diana/leetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
