@@ -177,6 +177,7 @@
 | [0365-water-and-jug-problem](https://github.com/008diana/leetCode/tree/master/0365-water-and-jug-problem) |
 | [1477-product-of-the-last-k-numbers](https://github.com/008diana/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/008diana/leetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/008diana/leetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/008diana/leetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String Matching
 |  |
 | ------- |
