@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/008diana/leetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/008diana/leetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/008diana/leetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/008diana/leetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
@@ -125,6 +126,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/008diana/leetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
@@ -247,6 +249,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/008diana/leetCode/tree/master/0169-majority-element) |
 | [1364-tuple-with-same-product](https://github.com/008diana/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/008diana/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/008diana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -270,6 +273,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/008diana/leetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/008diana/leetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/008diana/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/008diana/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -298,4 +302,8 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/008diana/leetCode/tree/master/2434-design-a-number-container-system) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/008diana/leetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
