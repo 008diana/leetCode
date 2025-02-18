@@ -204,6 +204,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/008diana/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/008diana/leetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/008diana/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/008diana/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/008diana/leetCode/tree/master/0365-water-and-jug-problem) |
+| [0572-subtree-of-another-tree](https://github.com/008diana/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [0744-network-delay-time](https://github.com/008diana/leetCode/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/008diana/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/008diana/leetCode/tree/master/1396-count-servers-that-communicate) |
@@ -245,6 +247,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/008diana/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/008diana/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
@@ -306,4 +309,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/008diana/leetCode/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/008diana/leetCode/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/008diana/leetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
