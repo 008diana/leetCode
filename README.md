@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/008diana/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/008diana/leetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/008diana/leetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/008diana/leetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/008diana/leetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/008diana/leetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/008diana/leetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/008diana/leetCode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/008diana/leetCode/tree/master/0115-distinct-subsequences) |
 | [0435-non-overlapping-intervals](https://github.com/008diana/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
@@ -308,6 +310,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/008diana/leetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/008diana/leetCode/tree/master/0169-majority-element) |
 ## Tree
 |  |
