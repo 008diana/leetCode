@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/008diana/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/008diana/leetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/008diana/leetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/008diana/leetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/008diana/leetCode/tree/master/0053-maximum-subarray) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/008diana/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/008diana/leetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/008diana/leetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/008diana/leetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/008diana/leetCode/tree/master/0189-rotate-array) |
