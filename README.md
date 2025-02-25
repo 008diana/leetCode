@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/008diana/leetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/008diana/leetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/008diana/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/008diana/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/008diana/leetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/008diana/leetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/008diana/leetCode/tree/master/0189-rotate-array) |
@@ -131,6 +132,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/008diana/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/008diana/leetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
@@ -296,6 +298,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/008diana/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/008diana/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/008diana/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
