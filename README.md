@@ -31,6 +31,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/008diana/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/008diana/leetCode/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/008diana/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/008diana/leetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/008diana/leetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/008diana/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/008diana/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -210,6 +211,7 @@
 | [0518-coin-change-ii](https://github.com/008diana/leetCode/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/008diana/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/008diana/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/008diana/leetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Backtracking
 |  |
 | ------- |
