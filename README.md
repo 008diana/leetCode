@@ -26,6 +26,7 @@
 | [0485-max-consecutive-ones](https://github.com/008diana/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/008diana/leetCode/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/008diana/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/008diana/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/008diana/leetCode/tree/master/1396-count-servers-that-communicate) |
@@ -126,6 +127,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/008diana/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/008diana/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/008diana/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/008diana/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -141,6 +143,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/008diana/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/008diana/leetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/008diana/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/008diana/leetCode/tree/master/1364-tuple-with-same-product) |
