@@ -39,6 +39,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/008diana/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/008diana/leetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/008diana/leetCode/tree/master/2145-grid-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/008diana/leetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/008diana/leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/008diana/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/008diana/leetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -168,6 +169,7 @@
 | [0189-rotate-array](https://github.com/008diana/leetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/008diana/leetCode/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/008diana/leetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/008diana/leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/008diana/leetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/008diana/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -331,6 +333,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/008diana/leetCode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/008diana/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/008diana/leetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/008diana/leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/008diana/leetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/008diana/leetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
