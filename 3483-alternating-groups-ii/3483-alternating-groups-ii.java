@@ -19,7 +19,7 @@ class Solution {
                 counter++;
                 j++;
             }
-            System.out.println(counter);
+            //System.out.println(counter);
             if(counter >= k){
                 result += counter - k + 1;
                 counter = 1;
@@ -28,7 +28,7 @@ class Solution {
             else{
                 counter = 1;
             }
-            System.out.println(result);
+            //System.out.println(result);
             j++;
         }
         return result;
