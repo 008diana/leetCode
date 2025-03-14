@@ -35,6 +35,7 @@
 | [0518-coin-change-ii](https://github.com/008diana/leetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/008diana/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/008diana/leetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/008diana/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/008diana/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/008diana/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -370,6 +371,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/008diana/leetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/008diana/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/008diana/leetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
