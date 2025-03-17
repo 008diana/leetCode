@@ -35,6 +35,7 @@
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/008diana/leetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/008diana/leetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/008diana/leetCode/tree/master/0792-binary-search) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/008diana/leetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/008diana/leetCode/tree/master/1364-tuple-with-same-product) |
@@ -378,6 +379,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/008diana/leetCode/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/008diana/leetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/008diana/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/008diana/leetCode/tree/master/2665-minimum-time-to-repair-cars) |
