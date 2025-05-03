@@ -1,16 +1,18 @@
 class Solution {
     public int climbStairs(int n) {
-        int[] tabu = new int[n + 1];
-        for(int i = 0; i <= n; i++){
-            if(i == 0 || i == 1){
-                tabu[i] = 1;
-            }
+        int prev = 1;
+        int prev2 = 1;
+        int curr = prev + prev2;
+        if(n == 0 || n == 1){
+            return 1;
+        }
+        for(int i = 2; i <= n; i++){
             
-            else{
-                tabu[i] = tabu[i-1] + tabu[i-2];
-            }
+            curr = prev + prev2;
+            prev = prev2;
+            prev2 = curr;
             
         }
-        return tabu[n];
+        return curr;
     }
 }
