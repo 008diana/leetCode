@@ -51,6 +51,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/008diana/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/008diana/leetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/008diana/leetCode/tree/master/2145-grid-game) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/008diana/leetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/008diana/leetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/008diana/leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/008diana/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/008diana/leetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/008diana/leetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Stack
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/008diana/leetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/008diana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/008diana/leetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/008diana/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/008diana/leetCode/tree/master/2509-minimize-xor) |
 ## Bit Manipulation
@@ -368,6 +372,7 @@
 | [0229-majority-element-ii](https://github.com/008diana/leetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/008diana/leetCode/tree/master/0435-non-overlapping-intervals) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/008diana/leetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/008diana/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/008diana/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Union Find
@@ -388,6 +393,7 @@
 | [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/008diana/leetCode/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/008diana/leetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/008diana/leetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/008diana/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/008diana/leetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/008diana/leetCode/tree/master/3643-zero-array-transformation-ii) |
