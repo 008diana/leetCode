@@ -138,6 +138,7 @@
 | [0115-distinct-subsequences](https://github.com/008diana/leetCode/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/008diana/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/008diana/leetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/008diana/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/008diana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -208,6 +209,7 @@
 | [0189-rotate-array](https://github.com/008diana/leetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/008diana/leetCode/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/008diana/leetCode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/008diana/leetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/008diana/leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/008diana/leetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -273,6 +275,7 @@
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/008diana/leetCode/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/008diana/leetCode/tree/master/0678-valid-parenthesis-string) |
+| [0868-push-dominoes](https://github.com/008diana/leetCode/tree/master/0868-push-dominoes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/008diana/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/008diana/leetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Backtracking
