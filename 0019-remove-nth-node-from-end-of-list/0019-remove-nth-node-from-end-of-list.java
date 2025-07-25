@@ -23,15 +23,11 @@ class Solution {
         if(ahead == null){
             return head.next;
         }
-        System.out.println(ahead.val);
-        System.out.println(curr.val);
+        
         
         while(ahead.next != null){
             curr = curr.next;
             ahead = ahead.next;
-            System.out.println();
-            System.out.println(ahead.val);
-            System.out.println(curr.val);
         }
         curr.next = curr.next.next;
         return head;
