@@ -40,6 +40,7 @@
 | [0518-coin-change-ii](https://github.com/008diana/leetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/008diana/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/008diana/leetCode/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/008diana/leetCode/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/008diana/leetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/008diana/leetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -234,6 +235,7 @@
 | [0455-assign-cookies](https://github.com/008diana/leetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/008diana/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
+| [0890-lemonade-change](https://github.com/008diana/leetCode/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/008diana/leetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/008diana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/008diana/leetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
