@@ -44,6 +44,7 @@
 | [0792-binary-search](https://github.com/008diana/leetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/008diana/leetCode/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
+| [1046-max-consecutive-ones-iii](https://github.com/008diana/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/008diana/leetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/008diana/leetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/008diana/leetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/008diana/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/008diana/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/008diana/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/008diana/leetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/008diana/leetCode/tree/master/2478-longest-nice-subarray) |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/008diana/leetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/008diana/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/008diana/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/008diana/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/008diana/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -427,6 +430,7 @@
 | [0035-search-insert-position](https://github.com/008diana/leetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/008diana/leetCode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/008diana/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/008diana/leetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/008diana/leetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/008diana/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
