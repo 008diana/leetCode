@@ -25,7 +25,7 @@ class Solution {
             } 
             else {
                 while (map.size() == 2) {  // ⬅️ fix: run until size == 1 is incorrect
-                    int val = map.getOrDefault(fruits[start], 0);  // ⬅️ fix: use getOrDefault
+                    int val = map.get(fruits[start]);  // ⬅️ fix: use getOrDefault
                     if (val == 1) {
                         map.remove(fruits[start]);
                     } else {
