@@ -43,6 +43,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/008diana/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/008diana/leetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/008diana/leetCode/tree/master/0890-lemonade-change) |
+| [0940-fruit-into-baskets](https://github.com/008diana/leetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
 | [1046-max-consecutive-ones-iii](https://github.com/008diana/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/008diana/leetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/008diana/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
+| [0940-fruit-into-baskets](https://github.com/008diana/leetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/008diana/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/008diana/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/008diana/leetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -195,6 +197,7 @@
 | [0268-missing-number](https://github.com/008diana/leetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/008diana/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
+| [0940-fruit-into-baskets](https://github.com/008diana/leetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/008diana/leetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/008diana/leetCode/tree/master/1364-tuple-with-same-product) |
