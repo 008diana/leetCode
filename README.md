@@ -93,6 +93,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/008diana/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/008diana/leetCode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/008diana/leetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/008diana/leetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Queue
 |  |
 | ------- |
@@ -276,6 +277,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/008diana/leetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/008diana/leetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/008diana/leetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/008diana/leetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Math
 |  |
 | ------- |
@@ -296,6 +298,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/008diana/leetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/008diana/leetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/008diana/leetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/008diana/leetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/008diana/leetCode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
