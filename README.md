@@ -178,6 +178,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/008diana/leetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/008diana/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/008diana/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/008diana/leetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/008diana/leetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
 |  |
@@ -303,6 +304,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/008diana/leetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/008diana/leetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/008diana/leetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/008diana/leetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/008diana/leetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/008diana/leetCode/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -419,6 +421,7 @@
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/008diana/leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/008diana/leetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/008diana/leetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -538,4 +541,8 @@
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/008diana/leetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/008diana/leetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/008diana/leetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/008diana/leetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
