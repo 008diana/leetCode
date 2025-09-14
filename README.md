@@ -46,6 +46,7 @@
 | [0940-fruit-into-baskets](https://github.com/008diana/leetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/008diana/leetCode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/008diana/leetCode/tree/master/1006-vowel-spellchecker) |
 | [1046-max-consecutive-ones-iii](https://github.com/008diana/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/008diana/leetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/008diana/leetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -162,6 +163,7 @@
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/008diana/leetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/008diana/leetCode/tree/master/1006-vowel-spellchecker) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/008diana/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/008diana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/008diana/leetCode/tree/master/1524-string-matching-in-an-array) |
@@ -211,6 +213,7 @@
 | [0768-partition-labels](https://github.com/008diana/leetCode/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/008diana/leetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/008diana/leetCode/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/008diana/leetCode/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/008diana/leetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/008diana/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/008diana/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
