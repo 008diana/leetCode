@@ -96,12 +96,14 @@
 | [3483-alternating-groups-ii](https://github.com/008diana/leetCode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/008diana/leetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/008diana/leetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3827-implement-router](https://github.com/008diana/leetCode/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/008diana/leetCode/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/008diana/leetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/008diana/leetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/008diana/leetCode/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0937-online-stock-span](https://github.com/008diana/leetCode/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/008diana/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/008diana/leetCode/tree/master/2434-design-a-number-container-system) |
+| [3827-implement-router](https://github.com/008diana/leetCode/tree/master/3827-implement-router) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -231,6 +234,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/008diana/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/008diana/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/008diana/leetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3827-implement-router](https://github.com/008diana/leetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/008diana/leetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -473,6 +477,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/008diana/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/008diana/leetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/008diana/leetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3827-implement-router](https://github.com/008diana/leetCode/tree/master/3827-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -488,6 +493,7 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/008diana/leetCode/tree/master/2434-design-a-number-container-system) |
+| [3827-implement-router](https://github.com/008diana/leetCode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
