@@ -41,6 +41,7 @@
 | [0494-target-sum](https://github.com/008diana/leetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/008diana/leetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/008diana/leetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/008diana/leetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/008diana/leetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/008diana/leetCode/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/008diana/leetCode/tree/master/0940-fruit-into-baskets) |
